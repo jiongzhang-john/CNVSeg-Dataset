@@ -10,6 +10,6 @@ The data annotation process was conducted as follows: two ophthalmologists perfo
 
 ****
 
-This is a public dataset for DSA segmentation; the link is [here](https://zenodo.org/records/13895504). 
+This is a public dataset for CNV segmentation; the link is [here](https://zenodo.org/records/13895504). 
 
 ****
