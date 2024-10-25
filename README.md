@@ -16,6 +16,6 @@ The data annotation process was conducted as follows: two ophthalmologists perfo
 
 This is a public dataset for CNV segmentation; the link is [here](https://zenodo.org/records/13895504). 
 
-![image](https://github.com/jiongzhang-john/CNV/blob/main/images/CNVdataset.png)
+![image](https://github.com/jiongzhang-john/CNV/blob/main/images/link.png)
 
 ****
