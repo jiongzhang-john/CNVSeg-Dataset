@@ -10,7 +10,7 @@ The data annotation process was conducted as follows: two ophthalmologists perfo
 ****
 
 📖 Please cite the following reference:
-T. Chen, D. Zhang, D. Chen, H. Fu, K. Jin, S. Wang, L.D. Cohen, Y. Zhao, Q. Yi, J. Zhang. [LINK](https://arxiv.org/pdf/2508.03197). Neovascularization Segmentation via a Multilateral Interaction-Enhanced Graph Convolutional Network. arXiv preprint arXiv:2508.03197, 2025.
+T. Chen, D. Zhang, D. Chen, H. Fu, K. Jin, S. Wang, L.D. Cohen, Y. Zhao, Q. Yi, J. Zhang. [LINK](https://arxiv.org/abs/2508.03197). Neovascularization Segmentation via a Multilateral Interaction-Enhanced Graph Convolutional Network. arXiv preprint arXiv:2508.03197, 2025.
 
 ****
 🚀**Download**
