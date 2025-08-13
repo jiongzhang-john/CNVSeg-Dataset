@@ -9,11 +9,11 @@ The data annotation process was conducted as follows: two ophthalmologists perfo
 ![image](https://github.com/jiongzhang-john/CNV/blob/main/images/dataset.png)
 ****
 
-
-
+📖 Please cite the following reference:
+T. Chen, D. Zhang, D. Chen, H. Fu, K. Jin, S. Wang, L.D. Cohen, Y. Zhao, Q. Yi, J. Zhang. [LINK](https://arxiv.org/pdf/2508.03197). Neovascularization Segmentation via a Multilateral Interaction-Enhanced Graph Convolutional Network. arXiv preprint arXiv:2508.03197, 2025.
 
 ****
-
+🚀**Download**
 This is a public dataset for CNV segmentation; the link is [here](https://zenodo.org/records/13895504). 
 
 ![image](https://github.com/jiongzhang-john/CNV/blob/main/images/link.png)
